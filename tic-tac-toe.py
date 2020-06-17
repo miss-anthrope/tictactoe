@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 # This is the start of the game. Step 1, print the board.
 
@@ -151,9 +149,6 @@ while True:
     
     if not replay():
         break
-
-
-# In[ ]:
 
 
 
